@@ -1,0 +1,14 @@
+---
+tempest:
+  - 0.1.0 Initial Chart
+  - 0.1.1 Change helm-toolkit dependency version to ">= 0.1.0"
+  - 0.2.0 Remove support for releases before T
+  - 0.2.1 Update htk requirements repo
+  - 0.2.2 Add helm hook for ks job
+  - 0.2.3 Fix logging config
+  - 0.2.4 Update default image values to Wallaby
+  - 0.2.5 Added OCI registry authentication
+  - 0.2.6 Support SSL openstack endpoints
+  - 0.2.7 Add configuration for heat-tempest-plugin
+  - 0.2.8 Bump Cirros version to 0.6.2
+...
